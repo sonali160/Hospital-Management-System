@@ -35,3 +35,6 @@ Features of Hospital Management System:
 4. View Other Staff
 5. Search Box
 6. Add/Remove
+
+
+
